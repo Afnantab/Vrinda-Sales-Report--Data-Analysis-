@@ -25,6 +25,13 @@ can undesrtand their customers and grow more sales in 2023 & 2024.
 8.Identification of the highest selling category.
 ## Dashboard Interaction 
 -<a href="https://github.com/Afnantab/Vrindar-Sales-Report--Data-Analysis-/blob/main/dashboard%20.png">view dashboard<a/>
+## Sample Insights
+1. Women are more likely to buy compared to men (~65%)
+
+2.2. Top 5 contributing states: Maharashtra, Karnataka, Uttar Pradesh (~35%)
+
+
+
 
 
 
