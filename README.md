@@ -24,7 +24,7 @@ can undesrtand their customers and grow more sales in 2023 & 2024.
 
 8.Identification of the highest selling category.
 ## Dashboard Interaction 
--<a href="
+-<a href="https://github.com/Afnantab/Vrindar-Sales-Report--Data-Analysis-/blob/main/dashboard%20.png">
 
 
 
