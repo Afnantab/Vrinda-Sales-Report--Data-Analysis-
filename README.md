@@ -9,6 +9,7 @@ can undesrtand their customers and grow more sales in 2023 & 2024.
 -<a href="https://github.com/Afnantab/Vrindar-Sales-Report--Data-Analysis-/blob/main/Vrinda%20Store%20project.xlsx">Dataset<a/>
 ## Questions
 1.Comparison of sales and orders using a single chart
+
 2.Identification of the month with the highest sales and orders
 3.Demographic breakdown of purchases by gender
 4.Listing of different order statuses in 2022
