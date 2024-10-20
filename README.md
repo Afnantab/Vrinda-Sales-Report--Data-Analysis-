@@ -33,6 +33,10 @@ can undesrtand their customers and grow more sales in 2023 & 2024.
 3. Adult age group (30-40 Years) is the highest contributor (~50%)
 
 4. Max contributing channels: Amazon, Flipkart, Myntra (~80%)
+## Final Conclusion and Recommendations
+Target women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh by utilizing ads, offers, and coupons available on Amazon, Flipkart, and Myntra. This strategy aims to improve sales at Vrinda Store.
+
+   
 
 
 
