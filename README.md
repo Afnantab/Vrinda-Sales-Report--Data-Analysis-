@@ -28,7 +28,12 @@ can undesrtand their customers and grow more sales in 2023 & 2024.
 ## Sample Insights
 1. Women are more likely to buy compared to men (~65%)
 
-2.2. Top 5 contributing states: Maharashtra, Karnataka, Uttar Pradesh (~35%)
+2. Top 5 contributing states: Maharashtra, Karnataka,Telangana,Tamil Nadu, Uttar Pradesh (~35%)
+
+3. Adult age group (30-40 Years) is the highest contributor (~50%)
+
+4. Max contributing channels: Amazon, Flipkart, Myntra (~80%)
+
 
 
 
